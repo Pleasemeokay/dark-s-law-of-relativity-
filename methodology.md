@@ -1,109 +1,96 @@
-Methodology for Dark’s Law of Relativity
-
-1. Objective
-
-To study and analyze how human perception filters reality, and how this can be modeled, approximated, or extended using AI systems. The study aims to explore the relationship between existence (E), sensory capacity (S), and perceived reality (R).
-
+# 🌌 Methodology for Dark’s Law of Relativity
 
 ---
 
-2. Hypothesis
+## 1. 🎯 Objective
 
-Primary Hypothesis: Perceived reality  is always a filtered projection of existence , limited by individual sensory and cognitive capacities .
-
-AI-Assisted Hypothesis: AI systems can model aspects of reality more consistently by minimizing memory and context bias, providing an external approximation of “absolute” reality.
-
-
-
----
-
-3. Approach / Steps
-
-1. Define Variables
-
- = Raw existence (data, events, phenomena)
-
- = Human sensory and cognitive capacities
-
- = Perceived reality
-
- = Filtering function of S on E
-
-
-
-2. Data Collection
-
-Collect real-world sensory data: visual, auditory, and experiential observations.
-
-Collect AI-processed representations of the same data for comparison.
-
-
-
-3. Modeling
-
-Represent human perception mathematically as .
-
-Model AI approximation as , where:
-
- = Input data
-
- = Memory/prior state
-
- = Contextual parameters
-
-
-
-
-4. Experimental Setup
-
-Human Study: Compare subjective perception of the same stimuli across participants.
-
-AI Study: Process identical datasets using AI with controlled memory/context parameters.
-
-Measure the discrepancies between  and .
-
-
-
-5. Analysis
-
-Quantify how sensory capacity  affects .
-
-Measure convergence between human perception and AI outputs.
-
-Examine patterns of distortion or bias introduced by memory/context.
-
-
-
-6. Validation
-
-Repeat experiments with multiple AI instances and human participants.
-
-Use statistical methods (e.g., variance, correlation) to validate relationships.
-
-Document limitations of human sensory filtering and AI modeling.
-
-
-
-
+**To explore:**  
+How does human perception filter reality?  
+Can AI model, extend, or approximate this process?  
+> _We analyze the dynamic between Existence (E), Sensory Processing (S), and Perceived Reality (P), seeking a bridge between subjective experience and AI-driven objectivity._
 
 ---
 
-4. Expected Outcomes
+## 2. 💡 Hypotheses
 
-A measurable demonstration of how perception filters reality.
+- **Primary:**  
+  *Perceived reality* is always a **filtered projection** of existence, limited by individual sensory and cognitive capacities.
 
-AI models that approximate human-independent representations of reality.
-
-Quantification of gaps () between subjective perception and modeled reality.
-
-
+- **AI-Assisted:**  
+  AI systems can model reality more consistently, minimizing memory/context bias to provide an external approximation of “absolute” reality.
 
 ---
 
-5. Applications
+## 3. 🧭 Approach & Steps
 
-Cognitive science: Understanding human perception limits.
+### 1. Define Key Variables
 
-AI research: Modeling reality and minimizing bias.
+- **E:** Raw existence (data, events, phenomena)
+- **S:** Human sensory & cognitive capacities
+- **P:** Perceived reality
+- **F:** Filtering function of S on E, i.e., `P = F(E, S)`
 
-Philosophy: Experimental approach to the age-old problem of “perceived vs absolute reality.
+---
+
+### 2. Data Collection
+
+- **👁️ Human:** Real-world sensory data (visual, auditory, experiential)
+- **🤖 AI:** AI-processed representations of the same data
+
+---
+
+### 3. Modeling
+
+- **Human Perception:**  
+  `P_human = F(E, S)`
+- **AI Approximation:**  
+  `P_AI = F_AI(E, M, C)`  
+  *(where M = memory/prior state, C = context)*
+
+---
+
+### 4. Experimental Setup
+
+- **Human Study:**  
+  Compare subjective perception of identical stimuli across participants.
+- **AI Study:**  
+  Process identical datasets with AI, controlling for memory/context.
+- **Goal:**  
+  Measure discrepancies between `P_human` and `P_AI`.
+
+---
+
+### 5. Analysis
+
+- Quantify how sensory capacity (S) affects perception (P)
+- Measure convergence/divergence between human and AI outputs
+- Examine patterns of distortion or bias from memory/context
+
+---
+
+### 6. Validation
+
+- Replicate experiments with multiple AI instances & diverse human participants
+- Use statistics (variance, correlation, etc.) for validation
+- Document limitations of both human and AI filtering
+
+---
+
+## 4. 🚀 Expected Outcomes
+
+- **Measured demonstration** of how perception filters reality
+- **AI models** that approximate human-independent reality
+- **Quantified gap** (`ΔP = |P_human - P_AI|`) between subjective and modeled reality
+
+---
+
+## 5. 🌟 Applications
+
+- **Cognitive Science:**  
+  Understanding the limits and mechanisms of human perception
+- **AI Research:**  
+  Building models of reality, minimizing bias
+- **Philosophy:**  
+  An experimental take on "perceived vs. absolute reality"
+
+---
